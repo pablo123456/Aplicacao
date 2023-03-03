@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NTDois</string>
+    <string name="telaPrincipal">Tela Principal</string>
+    <string name="telaCadastro">Tela de Cadastro</string>
+    <string name="telaConsulta">Tela de Consulta</string>
+    <string name="endereco">Endereço</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="voltar">Voltar</string>
+    <string name="gravar">Gravar</string>
+    <string name="proximoReg">Próximo Registro</string>
+    <string name="registroAnt">Registro Anterior</string>
+
+</resources>
